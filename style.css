@@ -1,0 +1,322 @@
+body{
+	overflow-x: hidden;
+}
+.navbar-brand img{
+	height: 2rem;
+}
+nav ul li a{
+	display: block;
+	font-family: arial;
+	color: yellow;
+	font-size: 18px;
+	padding: 18px 22px;
+	text-decoration: none;
+}
+.carousel-item img{
+	width: 100%;
+}
+.banner img{
+	width: 100%;
+}
+.banner1 img{
+	width: 70%;
+}
+#c1 h1{
+	font-size: 15vw;
+	color: blue;
+	font-family: respective;
+}
+#c1 h3{
+	padding-bottom: 30px;
+	font-size: 5vw;
+	color: blue;
+	font-family: arial;
+}
+#c1 h2{
+	color: blue;
+	font-family: comic-sans-ms;
+	font-size: 5vw;
+	font-weight: 100;
+}
+#c2 h1{
+	text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px red;
+	font-size: 9vw;
+	color: red;
+	font-family: respective;
+	font-weight: 300;
+}
+#c2 h3{
+	font-size: 2vw;
+	color: white;
+	font-family: arial;
+}
+#c3 h1{
+	font-size: 10vw;
+	color: white;
+	font-family: respective;
+	font-weight: 300;
+}
+#c3 h3{
+	font-size: 2vw;
+	padding-bottom: 50px; 
+	color: white;
+	font-family: arial;
+}
+.num2{
+	background-image: url("image/intro1.jpg")
+}
+.num2 h1{
+	text-align: center;
+	font-family: comic-sans-ms;
+}
+.num2 p{
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	font-weight: 100;
+	color: black;
+}
+.num3{
+	background-image: url("image/p77.jpg")
+}
+.num1{
+	background-image: url("image/p4.jpg")
+}
+.num1 a button {
+	font-size: 20px;
+	font-weight: 100;
+	color: black;
+}
+.num1 p{
+	font-family: arial;
+	font-size: 25px;
+	font-weight: 100;
+	color: black;
+}
+.container-fluid{
+	 padding-top: 20px;
+}
+.card img:hover{
+	border-radius: 40%;
+	transform: scale(1.1);
+}
+.card-body p{
+	color: white;
+	font-family: arial;
+	opacity: 0.7;
+}
+.card-body h4{
+	text-align: center;
+	color: blue;
+	font-family: arial;
+	opacity: 0.7;
+}
+.parallax{
+	min-height: 500px;
+	background: transparent;
+}
+.parallax h3{
+	color: black;
+}
+.parallax p{
+	color: black;
+	font-size: 23px;
+}
+.w1{
+	padding-top: 20px;
+	font-family: arial;
+	color: white;
+}
+.w2{
+	color: white;
+}
+.w2 p{
+	font-family: arial;
+	font-size: 20px;
+}
+.card-body1 p{
+	padding-top: 30px;
+}
+.caption{
+	text-align: center;
+	padding-top: 30px;
+}
+footer{
+	background-color: #3f3f3f;
+	color: #d5d5d5;
+}
+video{
+	height: 480px;
+	width: 100%;
+}
+.overview{
+	font-size: 20px;
+}
+.col-md-12 li{
+	font-size: 20px;
+}
+.input-grp{
+	width: 200px;
+	display: inline-block;
+}
+.form-control{
+	color: #fff;
+	background: red;
+	box-shadow: none;
+}
+input[type="text"],
+input[type="password"]
+{
+	display: block;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+	padding: 4px;
+	width: 100%;
+	height: 32px;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid;
+	font-family: sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	transition: 0.2s ease;
+}
+.input-grp1{
+	
+}
+a.social{
+	margin-bottom: 20px;
+	width: 150px;
+	height: 36px;
+	border: none;
+	border-radius: 2px;
+	color: black;
+	font-family: sans-serif;
+	font-size: 18px;
+	transition: 0.2s ease;
+	cursor: pointer;
+}
+a.facebook{
+	background: #32508e;
+}
+a.twitter{
+	background: #55acee;
+}
+a.google{
+	background: pink;
+}
+.booking-form h5{
+	text-align: center;
+}
+.view p{
+	color: white;
+	font-size: 7vw;
+	position: absolute;
+	padding-top: 320px;
+	padding-left: 17vw;
+}
+.au{
+	text-align: center;
+}
+.description{
+	font-size: 18px;
+}
+.card1 video{
+	height: 230px;
+}
+.num4{
+	background-image: url("image/p4.jpg")
+}
+.num4{
+	text-align: center;
+	font-family: comic-sans-ms;
+}
+.card-body1 h4{
+	text-align: center;
+	background-color: grey;
+	color: white;
+}
+.num5{
+	text-align: center;
+	font-family: comic-sans-ms;
+}
+.num5{
+	background-image: url("image/p9.jpg")
+}
+.num6 h6{
+	text-align: center;
+}
+.num7{
+	text-align: center;
+}
+.num7{
+	background-image: url("image/p11.jpg")
+}
+.num8{
+	text-align: center;
+}
+.num8{
+	background-image: url("image/p10.jpg")
+}
+.num9{
+	text-align: center;
+	background-color: white;
+}
+.num9{
+	background-image: url("image/p12.jpg")
+}
+.num9 h5{
+	color: blue;
+}
+.w4 h2{
+	text-align: center;
+}
+.cu{
+	text-align: center;
+}
+#uinquiry{
+	width: 100%;
+	height: 100px;
+}
+.info{
+	text-align: center;
+}
+.price{
+	text-align: center;
+}
+.num10{
+	background-color: #FFFDBB;
+}
+.num11{
+	background-color: #D6FFED;
+}
+td{
+	padding: 10px;
+}
+.pricetag{
+	width: 300px;
+	background-color: #FFFDBB;
+}
+.parallaxwcu{
+	color: white;
+}
+.num22{
+	background-image: url("image/intro1.jpg")
+}
+.num22 h1{
+	text-align: center;
+	font-family: comic-sans-ms;
+}
+.num22 p{
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	font-weight: 100;
+	color: black;
+}
+video{
+	width: 100%;
+}
+div.card {
+  box-shadow: 10px 10px 5px grey;
+}
